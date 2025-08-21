@@ -86,16 +86,4 @@
     <h1>Kickback Store</h1>
     <p>Kapde 👕 | Jute 👟</p>
   </header>  <nav>
-    <a href="#clothing">Clothing</a>
-    <a href="#shoes">Shoes</a>
-    <a href="#contact">Contact</a>
-  </nav>  <section id="clothing">
-    <h2>👕 Clothing Collection</h2>
-    <div class="products">
-      <div class="product">
-        <img src="https://via.placeholder.com/200x200.png?text=T-Shirt" alt="T-shirt" />
-        <h3>Trendy T-Shirt</h3>
-        <p>₹499</p>
-        <a class="btn" href="https://wa.me/918591044995">Order on WhatsApp</a>
-      </div>
-      <div class="product">
+    
